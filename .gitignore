@@ -33,3 +33,9 @@
 
 # CLion stuff
 /cmake-build-debug
+.idea
+
+# VS
+/out
+.vs
+CMakeSettings.json
